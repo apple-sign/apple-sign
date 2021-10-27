@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @apple-sign
 - 👀 I’m interested in iOS signing.
-- 🌱 I’m currently provding iOS ad-hoc signing platform: https://www.applesign.org/
+- 🌱 I’m currently provding iOS ad-hoc signing platform: https://timcok.com/
 - 💞️ I’m looking to collaborate on iOS app destribution for customers.
 - 📫 How to reach me: [Telegram @apple_sign](https://t.me/apple_sign)
 
